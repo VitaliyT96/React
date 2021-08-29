@@ -1,0 +1,22 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItem {
+  padding: 10px;
+}
+.dialog {
+}
+.masseges {
+  padding: 10px;
+}
+.massege {
+}
+.active {
+  color: blueviolet;
+}
+.avatar {
+	height: 50px;
+	width: 50px;
+}
